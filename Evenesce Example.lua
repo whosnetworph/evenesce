@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet(""))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/chromatiks/evenesce/refs/heads/main/library.lua"))()
 
 local Window = Library:Window({
     Name = "Evenesce",
