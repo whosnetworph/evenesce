@@ -1,5 +1,3 @@
--- discord.gg/syncrypt
-
 if getgenv().Evenesce and getgenv().Evenesce.Unload then
 	getgenv().Evenesce:Unload()
 end
